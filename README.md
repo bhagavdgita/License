@@ -27,8 +27,10 @@ We do not provide:
 
 The licensor (us) cannot revoke these freedoms as long as you follow the license terms.
 
-If you have any questions about this license and how you can use these recordings, please contact jakkipally@gmail.com
+If you have any questions about this license and how you can use this software, please contact [jakkipally@gmail.com](mailto:jakkipally@gmail.com)
 
+
+View the full license [here](https://latex.artofproblemsolving.com/miscpdf/psqhutkv.pdf?t=1661437519256)
 
 ## Audio
 
@@ -52,7 +54,8 @@ No warranties are given. The license may not give you all of the permissions nec
 
 We are not liable for anything that happens.
 
-If you have any questions about this license and how you can use these recordings, please contact jakkipally@gmail.com
-
+If you have any questions about this license and how you can use these recordings, please contact [jakkipally@gmail.com](mailto:jakkipally@gmail.com)
 
 This work is provided by Rohan Jakkipally and used with permission.
+
+View the full license [here](https://latex.artofproblemsolving.com/miscpdf/psqhutkv.pdf?t=1661438231216)
