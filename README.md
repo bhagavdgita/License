@@ -30,7 +30,7 @@ The licensor (us) cannot revoke these freedoms as long as you follow the license
 If you have any questions about this license and how you can use this software, please contact [jakkipally@gmail.com](mailto:jakkipally@gmail.com)
 
 
-View the full license [here](https://latex.artofproblemsolving.com/miscpdf/kkybfgit.pdf?t=1661439003948)
+View the full license [here](https://latex.artofproblemsolving.com/miscpdf/rtynsxsn.pdf?t=1661439384785)
 
 ## Audio
 
