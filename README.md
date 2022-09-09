@@ -1,4 +1,4 @@
-Every part of this repository is licensed with the *GNU Affero General Public License v3.0*, a strong copyleft license, execpt the [audio](https://github.com/bhagavdgita/bhagavdgita.github.io/tree/main/audio), which is licensed with the *Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International*.
+Every part of the repository <a href="https://github.com/bhagavdgita/bhagavdgita.github.io">`bhagavdgita/bhagavdgita.github.io`</a> is licensed with the *GNU Affero General Public License v3.0*, a strong copyleft license, execpt the [audio](https://github.com/bhagavdgita/bhagavdgita.github.io/tree/main/audio), which is licensed with the *Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International*.
 
 **This is only a human readable summary of the actual licenses. This is not even close to a substitue of the actual license. This is not legal advice.**
 
